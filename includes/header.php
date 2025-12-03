@@ -60,8 +60,9 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
     <!-- Bootstrap -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!-- Fontawesome Icon -->
-    <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+    <link rel="stylesheet" href="assets/css/fontawesome.min.css?v=<?php echo filemtime('assets/css/fontawesome.min.css');?>">
     <!-- Magnific Popup -->
+     
     <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
     <!-- Swiper Js -->
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
