@@ -19,7 +19,8 @@
             <div class="col-xl-6 col-lg-12">
                 <div class="about-wrap1">
                     <div class="title-area mb-30">
-
+                        <br>
+                        <br>
                         <div class="progress-bar-wrap">
                             <h3 class="progress-bar_title">Changing Lives</h3>
                             <div class="progress">
