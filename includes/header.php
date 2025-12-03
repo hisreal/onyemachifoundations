@@ -101,7 +101,7 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
         <div class="th-menu-area text-center">
             <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
             <div class="mobile-logo">
-                <a href="index.php"><img style="padding: 20px" src="assets/img/portfolio/logo1.png" alt="ONYEMACHI FOUNDATION LOGO"></a>
+                <a href="index.php"><img style="padding: 30px" src="assets/img/portfolio/logo1.png" alt="ONYEMACHI FOUNDATION LOGO"></a>
             </div>
             <div class="th-mobile-menu">
                <ul>
@@ -131,7 +131,7 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
             <div class="container">
                 <div class="menu-area">
                     <div class="header-logo">
-                        <a href=""><img style="width: 120px; padding: 10px" src="assets/img/portfolio/logo1.png" alt="ONYEMACHI FOUNDATION LOGO"></a>
+                        <a href=""><img style="width: 180px; padding: 10px" src="assets/img/portfolio/logo1.png" alt="ONYEMACHI FOUNDATION LOGO"></a>
                     </div>
                     <div class="menu-area-wrap">
                         <nav class="main-menu d-none d-lg-block">
