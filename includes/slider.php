@@ -1,0 +1,97 @@
+ <div class="th-hero-wrapper hero-1" id="hero">
+        <div class="swiper th-slider hero-slider1" id="heroSlide1" data-slider-options='{"effect":"fade", "autoHeight": "true"}'>
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="hero-inner" data-bg-src="assets/img/hero/hero_bg_4_1.jpg" data-overlay="black4" data-opacity="5">
+                        <div class="hero-bg-shape1-1">
+                            <img src="assets/img/hero/hero-bg-shape1-1.png" alt="img">
+                        </div>
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-xl-12">
+                                    <div class="hero-style1 text-center">
+                                        <h1 class="hero-title text-white">
+                                            <span class="title1" data-ani="slideinup" data-ani-delay="0.4s">
+                                                Empowering Dreams </span>
+                                            <span class="title1" data-ani="slideinup" data-ani-delay="0.4s">
+                                                Transforming Lives </span>
+                                            <center> <p style="font-weight: 400" data-ani="slideinup" class="hero-text  text-white">At the Onyemachi Foundation, 
+                                                we believe that every child, every family, and every community deserves a chance to thrive 
+                                                through education, healthcare, 
+                                                and opportunities.</p></center>
+
+                                        </h1>
+
+                                        <div class="btn-wrap justify-content-center" data-ani="slideinup" data-ani-delay="0.7s">
+                                             <a href="" class="th-btn style4">Donate Now <i class="fas fa-arrow-up-right ms-2"></i></a>
+                                            <a href="" class="th-btn style5 popup-video"><i class="fas fa-play me-2"></i> Contact Us</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="swiper-slide">
+                    <div class="hero-inner" data-bg-src="assets/img/hero/hero_bg_4_2.jpg" data-overlay="black4" data-opacity="5">
+                        <div class="hero-bg-shape1-1">
+                            <img src="assets/img/hero/hero-bg-shape1-1.png" alt="img">
+                        </div>
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-xl-12">
+                                    <div class="hero-style1 text-center">
+                                        <h1 class="hero-title text-white">
+                                            <span class="title1" data-ani="slideinup" data-ani-delay="0.4s">
+                                               Unlocking Minds,  </span>
+                                            <span class="title1" data-ani="slideinup" data-ani-delay="0.4s">
+                                                Shaping Futures</span>
+                                             <center> <p style="font-weight: 400" data-ani="slideinup" class="hero-text  text-white"> Giving every child the opportunity to learn, grow, and achieve their dreams.</p>
+                                        </h1>
+                                          
+
+                                        <div class="btn-wrap justify-content-center" data-ani="slideinup" data-ani-delay="0.7s">
+                                            <a href="" class="th-btn style4">Donate Now <i class="fas fa-arrow-up-right ms-2"></i></a>
+                                            <a href="" class="th-btn style5 popup-video"><i class="fas fa-play me-2"></i> Contact Us</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                 <div class="swiper-slide">
+                    <div class="hero-inner" data-bg-src="assets/img/hero/hero_bg_4_3.jpg" data-overlay="black4" data-opacity="5">
+                        <div class="hero-bg-shape1-1">
+                            <img src="assets/img/hero/hero-bg-shape1-1.png" alt="img">
+                        </div>
+                        <div class="container">
+                            <div class="row justify-content-center">
+                                <div class="col-xl-12">
+                                    <div class="hero-style1 text-center">
+                                        <h1 class="hero-title text-white">
+                                            <span class="title1" data-ani="slideinup" data-ani-delay="0.4s">
+                                               Healthy Families, </span>
+                                            <span class="title1" data-ani="slideinup" data-ani-delay="0.4s">
+                                               Stronger Communities</span>
+                                             <center><p style="font-weight: 400"  data-ani="slideinup" class="hero-text  text-white"> Providing essential medical care and health education to those who need it most.</p>
+                                        </h1>
+                                          
+
+                                        <div class="btn-wrap justify-content-center" data-ani="slideinup" data-ani-delay="0.7s">
+                                         <a href="" class="th-btn style4">Donate Now <i class="fas fa-arrow-up-right ms-2"></i></a>
+                                            <a href="" class="th-btn style5 popup-video"><i class="fas fa-play me-2"></i> Contact Us</a>                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
