@@ -1,3 +1,8 @@
+<?php
+$current_page = basename($_SERVER['PHP_SELF']);
+$current_dir  = basename(dirname($_SERVER['PHP_SELF']));
+?>
+
 <!doctype html>
 <html class="no-js" lang="zxx" dir="ltr">
 <head>
@@ -132,7 +137,7 @@
                         <nav class="main-menu d-none d-lg-block">
                             <ul>
                                 <li>
-                                    <a href="index.php">Home</a>
+                                    <a class="<?= ($current_page == 'index.php') ? 'active' : '' ?>" href="index.php">Home</a>
                                 </li>
                                <li><a href="">About Us</a></li>
                                 <li class="menu-item-has-children">

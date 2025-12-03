@@ -6961,7 +6961,7 @@ ol.wp-block-rss {
   display: -ms-flexbox;
   display: flex;
   width: -webkit-fill-available;
-  background: var(--theme-color);
+  background: var(--white-color);
   padding: 0 18px 0 30px;
   border-radius: 50px;
 }
@@ -7125,7 +7125,19 @@ ol.wp-block-rss {
   color: var(--white-color);
 }
 .header-layout1 .main-menu > ul > li > a:hover {
-  color: var(--theme-color2);
+  color: var(--white-color);
+  background-color: var(--theme-color2);
+  padding: 5px 10px;
+ border-radius: 10px;
+  
+}
+
+.header-layout1 .main-menu > ul > li > a.active {
+  color: var(--white-color);
+  background-color: var(--theme-color2);
+  padding: 5px 10px;
+ border-radius: 10px;
+  
 }
 .header-layout1 .main-menu > ul > li:has(.sub-menu) > a:after,
 .header-layout1 .main-menu > ul > li:has(.mega-menu) > a:after,
