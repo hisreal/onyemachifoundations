@@ -25,20 +25,21 @@
       </div>
 
       <!-- right text block -->
-      <div class="col-lg-6">
-        <h4 style="font-weight: 900" style="line-height: 1em" class="fw-bold mb-3">
-          ”Changing <span class="text-theme">Lives, </span> Inspiring <span class="text-theme">Hope, </span>Raising a Stronger Africa.”
+      <div class="col-lg-6 d-flex flex-column justify-content-center align-items-center align-items-lg-start text-center text-lg-start">
+        <h4 style="font-weight: 900; line-height: 1em;" class="fw-bold mb-3">
+            ”Changing <span class="text-theme">Lives, </span> Inspiring <span class="text-theme">Hope, </span>Raising a Stronger Africa.”
         </h4>
         <p class="text-muted">
-         Imagine a world where every child can learn, grow, and succeed. Onyemachi Foundation
-          is committed to uplifting communities across Nigeria and South Africa through education, 
-         healthcare, and empowerment, with a vision to expand our impact across Africa.
+            Imagine a world where every child can learn, grow, and succeed. Onyemachi Foundation
+            is committed to uplifting communities across Nigeria and South Africa through education, 
+            healthcare, and empowerment, with a vision to expand our impact across Africa.
         </p>
         
         <div class="btn-wrap mt-40">
-             <a href="about.html" class="th-btn">Read Our Full Story <i class="fas fa-arrow-up-right ms-2"></i></a>
+            <a href="about.html" class="th-btn">Read Our Full Story <i class="fas fa-arrow-up-right ms-2"></i></a>
         </div>
-      </div>
+        </div>
+
 
     </div>
   </div>

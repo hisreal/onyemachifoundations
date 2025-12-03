@@ -3,9 +3,7 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <div class="hero-inner" data-bg-src="assets/img/portfolio/dream.jpg" data-overlay="black4" data-opacity="5">
-                        <div class="hero-bg-shape1-1">
-                            <img src="assets/img/hero/hero-bg-shape1-1.png" alt="img">
-                        </div>
+                     
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-xl-12">
@@ -34,9 +32,7 @@
                 </div>
                 <div class="swiper-slide">
                     <div class="hero-inner" data-bg-src="assets/img/portfolio/mind.jpg" data-overlay="black4" data-opacity="5">
-                        <div class="hero-bg-shape1-1">
-                            <img src="assets/img/hero/hero-bg-shape1-1.png" alt="img">
-                        </div>
+                      
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-xl-12">
@@ -63,9 +59,7 @@
 
                  <div class="swiper-slide">
                     <div class="hero-inner" data-bg-src="assets/img/portfolio/family.jpg" data-overlay="black4" data-opacity="5">
-                        <div class="hero-bg-shape1-1">
-                            <img src="assets/img/hero/hero-bg-shape1-1.png" alt="img">
-                        </div>
+                       
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-xl-12">
