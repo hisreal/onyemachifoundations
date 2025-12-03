@@ -50,19 +50,15 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&amp;family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&amp;family=Nunito:ital,wght@0,200..1000;1,200..1000&amp;display=swap" rel="stylesheet">
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css"
-/>
+
     <!--==============================
 	    All CSS File
 	============================== -->
     <!-- Bootstrap -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!-- Fontawesome Icon -->
-    <link rel="stylesheet" href="assets/css/fontawesome.min.css?v=<?php echo filemtime('assets/css/fontawesome.min.css');?>">
+    <link rel="stylesheet" href="assets/css/fontawesome.min.css">
     <!-- Magnific Popup -->
-     
     <link rel="stylesheet" href="assets/css/magnific-popup.min.css">
     <!-- Swiper Js -->
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
