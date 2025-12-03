@@ -27,7 +27,7 @@
       <!-- right text block -->
       <div class="col-lg-6 d-flex flex-column justify-content-center align-items-center align-items-lg-start text-center text-lg-start">
         <h4 style="font-weight: 900; line-height: 1em;" class="fw-bold mb-3">
-            ”Changing <span class="text-theme">Lives, </span> Inspiring <span class="text-theme">Hope, </span>Raising a Stronger Africa.”
+            "Changing <span class="text-theme">Lives, </span> Inspiring <span class="text-theme">Hope, </span>Raising a Stronger Africa."
         </h4>
         <p class="text-muted">
             Imagine a world where every child can learn, grow, and succeed. Onyemachi Foundation
