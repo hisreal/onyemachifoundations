@@ -16,10 +16,15 @@
                                     Join us in making a difference</p>
                                <div class="th-social style6">
                                 <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
-                                <a href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a>
+                                <a href="https://www.twitter.com/">
+                                    <i class="fa-brands fa-x-twitter"></i>
+
+                                </a>
+                                <a href="https://www.instagram.com/">
+                                    <i class="fab fa-instagram"></i>
+
+                                </a>
                                 <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
-                                <a href="https://www.behance.com/"><i class="fab fa-behance"></i></a>
-                                <a href="https://www.vimeo.com/"><i class="fab fa-vimeo-v"></i></a>
                             </div>
                                 
                             </div>

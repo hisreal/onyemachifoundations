@@ -2,7 +2,7 @@
         <div class="swiper th-slider hero-slider1" id="heroSlide1" data-slider-options='{"effect":"fade", "autoHeight": "true"}'>
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <div class="hero-inner" data-bg-src="assets/img/hero/hero_bg_4_1.jpg" data-overlay="black4" data-opacity="5">
+                    <div class="hero-inner" data-bg-src="assets/img/portfolio/dream.jpg" data-overlay="black4" data-opacity="5">
                         <div class="hero-bg-shape1-1">
                             <img src="assets/img/hero/hero-bg-shape1-1.png" alt="img">
                         </div>
@@ -23,8 +23,7 @@
                                         </h1>
 
                                         <div class="btn-wrap justify-content-center" data-ani="slideinup" data-ani-delay="0.7s">
-                                             <a href="" class="th-btn style4">Donate Now <i class="fas fa-arrow-up-right ms-2"></i></a>
-                                            <a href="" class="th-btn style5 popup-video"><i class="fas fa-play me-2"></i> Contact Us</a>
+                                             <a href="" class="th-btn style4">Our Initiatives<i class="fas fa-arrow-up-right ms-2"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -34,7 +33,7 @@
 
                 </div>
                 <div class="swiper-slide">
-                    <div class="hero-inner" data-bg-src="assets/img/hero/hero_bg_4_2.jpg" data-overlay="black4" data-opacity="5">
+                    <div class="hero-inner" data-bg-src="assets/img/portfolio/mind.jpg" data-overlay="black4" data-opacity="5">
                         <div class="hero-bg-shape1-1">
                             <img src="assets/img/hero/hero-bg-shape1-1.png" alt="img">
                         </div>
@@ -52,8 +51,7 @@
                                           
 
                                         <div class="btn-wrap justify-content-center" data-ani="slideinup" data-ani-delay="0.7s">
-                                            <a href="" class="th-btn style4">Donate Now <i class="fas fa-arrow-up-right ms-2"></i></a>
-                                            <a href="" class="th-btn style5 popup-video"><i class="fas fa-play me-2"></i> Contact Us</a>
+                                             <a href="" class="th-btn style4">Our Initiatives<i class="fas fa-arrow-up-right ms-2"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -64,7 +62,7 @@
                 </div>
 
                  <div class="swiper-slide">
-                    <div class="hero-inner" data-bg-src="assets/img/hero/hero_bg_4_3.jpg" data-overlay="black4" data-opacity="5">
+                    <div class="hero-inner" data-bg-src="assets/img/portfolio/family.jpg" data-overlay="black4" data-opacity="5">
                         <div class="hero-bg-shape1-1">
                             <img src="assets/img/hero/hero-bg-shape1-1.png" alt="img">
                         </div>
@@ -82,8 +80,7 @@
                                           
 
                                         <div class="btn-wrap justify-content-center" data-ani="slideinup" data-ani-delay="0.7s">
-                                         <a href="" class="th-btn style4">Donate Now <i class="fas fa-arrow-up-right ms-2"></i></a>
-                                            <a href="" class="th-btn style5 popup-video"><i class="fas fa-play me-2"></i> Contact Us</a>                                        </div>
+                                             <a href="" class="th-btn style4">Our Initiatives<i class="fas fa-arrow-up-right ms-2"></i></a>
                                     </div>
                                 </div>
                             </div>

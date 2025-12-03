@@ -4,64 +4,48 @@
 <!--==============================
  About Area  
 ==============================-->
-<div class="overflow-hidden space" id="about-sec">
-    <div class="container">
-        <div class="row align-items-center">
 
-            <h2 class="sec-title text-center">
-                <a href="">Our Initiatives</a>
-            </h2>
+<section class="py-5">
+  <div class="container">
+    <div class="row align-items-center">
+      
+      <!-- left photo card -->
+      <div class="col-lg-6 mb-4 mb-lg-0">
+        <div class="hero-photo-card position-relative">
+          <div class="hero-photo-inner">
+            <img src="assets/img/portfolio/founder.png"  class="img-fluid rounded-4" alt="Onyechifoundation">
+          </div>
 
-            <div class="col-xl-6 col-lg-12">
-                <img src="assets/img/portfolio/founder.png" class="custom-img" alt="Founder Uche Onyemachi Image">
-            </div>
-            
-            <div class="col-xl-6 col-lg-12">
-                <div class="about-wrap1">
-                    <div class="title-area mb-30">
-                        <br>
-                        <br>
-                        <div class="progress-bar-wrap">
-                            <h3 class="progress-bar_title">Changing Lives</h3>
-                            <div class="progress">
-                                <div class="progress-bar bg-theme" style="width: 100%;"></div>
-                                <div class="progress-value text-theme"><span class="counter-number">100</span>%</div>
-                            </div>
-                        </div>
-
-                        <div class="progress-bar-wrap mt-20">
-                            <h3 class="progress-bar_title">Inspiring Hope</h3>
-                            <div class="progress">
-                                <div class="progress-bar bg-theme2" style="width: 100%;"></div>
-                                <div class="progress-value text-theme2"><span class="counter-number">100</span>%</div>
-                            </div>
-                        </div>
-
-                        <div class="progress-bar-wrap mt-20">
-                            <h3 class="progress-bar_title">Raising a Stronger Africa</h3>
-                            <div class="progress">
-                                <div class="progress-bar bg-theme" style="width: 100%;"></div>
-                                <div class="progress-value text-theme2"><span class="counter-number">100</span>%</div>
-                            </div>
-                        </div>
-
-                        <p class="mt-20">
-                            Imagine a world where every child can learn, grow, and succeed.  
-                            Onyemachi Foundation is committed to uplifting communities across
-                            Nigeria and South Africa through education, healthcare, and empowerment —
-                            with a vision to expand our impact across Africa.
-                        </p>
-                    </div>
-
-                    <div class="btn-wrap mt-40">
-                        <a href="about.html" class="th-btn">Read Our Full Story <i class="fas fa-arrow-up-right ms-2"></i></a>
-                    </div>
-                </div>
-            </div>
-
+          <!-- white name card -->
+          <div class="hero-name-card bg-white rounded-4 shadow d-inline-block p-3">
+            <h6 style="color: #125a52;" class="mb-1 fw-semibold theme-color">Uche Onyemachi</h6>
+            <small class="text-muted">Founder and Visionary</small>
+          </div>
         </div>
+      </div>
+
+      <!-- right text block -->
+      <div class="col-lg-6">
+        <h4 style="font-weight: 900" style="line-height: 1em" class="fw-bold mb-3">
+          ”Changing <span class="text-theme">Lives, </span> Inspiring <span class="text-theme">Hope, </span>Raising a Stronger Africa.”
+        </h4>
+        <p class="text-muted">
+         Imagine a world where every child can learn, grow, and succeed. Onyemachi Foundation
+          is committed to uplifting communities across Nigeria and South Africa through education, 
+         healthcare, and empowerment, with a vision to expand our impact across Africa.
+        </p>
+        <p class="fw-semibold mt-3">
+          Join us as we write a new chapter of hope for Nigeria.
+        </p>
+        <div class="btn-wrap mt-40">
+             <a href="about.html" class="th-btn">Read Our Full Story <i class="fas fa-arrow-up-right ms-2"></i></a>
+        </div>
+      </div>
+
     </div>
-</div>
+  </div>
+</section>
+
 
 <!--==============================
  Impact Snapshot
