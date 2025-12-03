@@ -34,9 +34,7 @@
           is committed to uplifting communities across Nigeria and South Africa through education, 
          healthcare, and empowerment, with a vision to expand our impact across Africa.
         </p>
-        <p class="fw-semibold mt-3">
-          Join us as we write a new chapter of hope for Nigeria.
-        </p>
+        
         <div class="btn-wrap mt-40">
              <a href="about.html" class="th-btn">Read Our Full Story <i class="fas fa-arrow-up-right ms-2"></i></a>
         </div>
