@@ -20,7 +20,7 @@
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-xxl-6 col-lg-6">
-                    <div class="th-blog blog-single">
+                   
                        
                         <div class="blog-content">
                              <h2 class="sec-title text-center">
@@ -48,11 +48,8 @@
                                 every initiative reflects our commitment to meaningful, measurable progress.</p>
 
                             </div>
-                        </div>
-                    </div>
-                         <div class="col-xxl-6 col-lg-6">
-                            <div class="th-blog blog-single">
-                          <div class="blog-content">
+                       
+                         
                             <h2 class="sec-title text-center">
                             Meet the Founder</h2><br>
                                  <div class="hero-photo-card position-relative">
@@ -114,7 +111,7 @@ Our long-term plan is to expand our initiatives to other African countries, stre
                           
                     </div>
                 </div>
-            </div>
+           
         </div>
     </section>
 <?php require_once 'includes/footer.php'; ?>
