@@ -79,7 +79,7 @@
 
                                   <div class="feature-card">
                                       <div class="box-icon">
-                                          <img src="assets/img/icon/target.png"  width="75px" alt="">
+                                          <img src="assets/img/icon/about/dart-mission-goal-success-svgrepo-com.svg"  width="75px" alt="">
                                       </div>
                                       <h3 class="box-title">Our Mission</h3>
                                       <p class="box-text">
@@ -93,7 +93,7 @@
                                     <br>
                                   <div class="feature-card">
                                       <div class="box-icon">
-                                          <img src="assets/img/icon/vision.png" width="75px" alt="">
+                                          <img src="assets/img/icon/about/vision-eye-svgrepo-com.svg" width="75px" alt="">
                                       </div>
                                       <h3 class="box-title">Our Vision</h3>
                                       <p class="box-text">
@@ -105,7 +105,7 @@
                            <br>
  <div class="feature-card">
                                       <div class="box-icon">
-                                          <img src="assets/img/icon/value.png" width="75px" alt="">
+                                          <img src="assets/img/icon/about/loan-interest-time-value-of-money-effective-svgrepo-com.svg" width="75px" alt="">
                                       </div>
                                       <h3 class="box-title">Our Values</h3>
                                      <ul style="text-align: justify" class="list-unstyled">
@@ -135,7 +135,7 @@
                                   <br>
               <div class="feature-card">
                                       <div class="box-icon">
-                                          <img src="assets/img/icon/world.png" width="75px" alt="">
+                                          <img src="assets/img/icon/about/atlas-svgrepo-com.svg" width="75px" alt="">
                                       </div>
                                       <h3 class="box-title">Our Geographic Focus</h3>
                                       <p class="box-text">
