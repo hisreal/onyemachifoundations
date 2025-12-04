@@ -3,17 +3,25 @@
     <!--==============================
     Breadcumb
 ============================== -->
-    <div class="breadcumb-wrapper" data-overlay="theme-color">
-        <div class="container">
-            <div class="breadcumb-content">
-                <h1 class="breadcumb-title">About Us</h1>
-                <ul class="breadcumb-menu">
-                    <li><a href="index.php">Home</a></li>
-                    <li>About Us</li>
-                </ul>
-            </div>
-        </div>
-    </div><!--==============================
+ 
+ <section style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+             url('assets/img/banner/home.png');" 
+         class="hero-banner">
+
+  <div class="container">
+    <div class="row d-flex justify-content-center text-center">
+      <div class="col-12 col-md-10 col-lg-8">
+        
+        <h1 class="fw-bold display-4 mb-3">
+          About Us
+        </h1>
+        
+      </div>
+    </div>
+  </div>
+
+</section>
+<!--==============================
     Blog Area
 ==============================-->
     <section class="th-blog-wrapper blog-details space-top space-extra2-bottom">
@@ -69,15 +77,38 @@
                                  experiences fueled his determination
                                  to create a platform that offers hope, empowerment, and real solutions.</p>
 
-                            <h2 class="sec-title text-center">Our Mission</h2>
-                          <p class="text-muted"> To improve lives and communities across Africa through impactful programs
-                             in education, healthcare, empowerment, and sustainable development.</p>
+                                  <div class="feature-card">
+                                      <div class="box-icon">
+                                          <img src="assets/img/icon/target.png"  width="75px" alt="">
+                                      </div>
+                                      <h3 class="box-title">Our Mission</h3>
+                                      <p class="box-text">
+                                          To improve lives and communities across Africa through impactful programs
+                                        in education, healthcare, empowerment, and sustainable development
+                                      </p>
+                                  </div>
 
-                            <h2 class="sec-title text-center">Our Vision</h2>
-                          <p class="text-muted">A continent where every child, youth, and family has access to opportunities that 
-                            enable them to thrive and contribute to the growth of Africa.</p>
- <h2 class="sec-title text-center">Our Values</h2>
-                            <ul class="list-unstyled">
+                                  
+                                    <br>
+                                    <br>
+                                  <div class="feature-card">
+                                      <div class="box-icon">
+                                          <img src="assets/img/icon/vision.png" width="75px" alt="">
+                                      </div>
+                                      <h3 class="box-title">Our Vision</h3>
+                                      <p class="box-text">
+                                          A continent where every child, youth, and family has access to opportunities that 
+                            enable them to thrive and contribute to the growth of Africa.
+                                      </p>
+                                  </div>
+                                  
+                           <br>
+ <div class="feature-card">
+                                      <div class="box-icon">
+                                          <img src="assets/img/icon/value.png" width="75px" alt="">
+                                      </div>
+                                      <h3 class="box-title">Our Values</h3>
+                                     <ul style="text-align: justify" class="list-unstyled">
   <li class="mb-2">
     <i class="fa fa-check text-success me-2"></i>
     <strong>Compassion:</strong> We care deeply about the well-being of every individual.
@@ -100,9 +131,20 @@
   </li>
 </ul>
 
-     <h2 class="sec-title text-center">Our Geographic Focus</h2>
-                          <p class="text-muted">We are currently active in Nigeria and South Africa, delivering programs that address education gaps, health challenges, and economic limitations.
-Our long-term plan is to expand our initiatives to other African countries, strengthening communities continent-wide.</p>
+                                  </div>
+                                  <br>
+              <div class="feature-card">
+                                      <div class="box-icon">
+                                          <img src="assets/img/icon/world.png" width="75px" alt="">
+                                      </div>
+                                      <h3 class="box-title">Our Geographic Focus</h3>
+                                      <p class="box-text">
+                                          We are currently active in Nigeria and South Africa, delivering programs that address education gaps, health challenges, and economic limitations.
+Our long-term plan is to expand our initiatives to other African countries, strengthening communities continent-wide.
+                                      </p>
+                                  </div>
+                            
+
 
                     </div>
                    
