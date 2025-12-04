@@ -35,7 +35,7 @@
                             <h3 class="widget_title">Quick Links</h3>
                             <div class="menu-all-pages-container">
                                 <ul class="menu text-white">
-                                    <li style="font-color: white" ><a  href="">About Us</a></li>
+                                    <li style="font-color: white" ><a  href="about.php">About Us</a></li>
                                     <li><a href="">Our Initiatives</a></li>
                                     <li><a href="">Projects</a></li>
                                     <li><a href="">Donation</a></li>
