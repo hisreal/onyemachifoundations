@@ -139,7 +139,7 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
                                 <li>
                                     <a class="<?= ($current_page == 'index.php') ? 'active' : '' ?>" href="index.php">Home</a>
                                 </li>
-                               <li><a href="about.php">About Us</a></li>
+                               <li><a class="<?= ($current_page == 'about.php') ? 'active' : '' ?>" href="about.php">About Us</a></li>
                                 <li class="menu-item-has-children">
                                     <a href="#">Initiatives</a>
                                     <ul class="sub-menu">
