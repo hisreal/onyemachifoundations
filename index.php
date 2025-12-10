@@ -115,9 +115,7 @@
                     </div>
                     <h3 class="box-title">Education</h3>
                     <p class="box-text">
-                        Scholarships, school supplies, mentorship, digital literacy, and community learning programs.
-                    </p>
-                    <a class="link-btn style2" href="">Read More <i class="fa-solid fa-arrow-up-right ms-2"></i></a>
+                        We support young minds through scholarships, school supplies, mentorship, digital literacy, and community learning programs.                    <a class="link-btn style2" href="">Read More <i class="fa-solid fa-arrow-up-right ms-2"></i></a>
                 </div>
             </div>
 
@@ -128,8 +126,7 @@
                     </div>
                     <h3 class="box-title">Healthcare</h3>
                     <p class="box-text">
-                        Medical outreach programs, health awareness campaigns, and free or affordable healthcare interventions.
-                    </p>
+                        We promote healthier communities through medical outreach programs, health awareness campaigns, and free/affordable healthcare interventions.                    </p>
                     <a class="link-btn style2" href="">Read More <i class="fa-solid fa-arrow-up-right ms-2"></i></a>
                 </div>
             </div>
@@ -141,8 +138,7 @@
                     </div>
                     <h3 class="box-title">Empowerment</h3>
                     <p class="box-text">
-                        Skills acquisition, entrepreneurship training, small business support, and leadership development.
-                    </p>
+                            We empower youths, women, and families through skills acquisition, entrepreneurship training, small business support, and leadership development.                    </p>
                     <a class="link-btn style2" href="">View Details <i class="fa-solid fa-arrow-up-right ms-2"></i></a>
                 </div>
             </div>
