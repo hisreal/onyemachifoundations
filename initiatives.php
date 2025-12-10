@@ -46,7 +46,7 @@
             At Onyemachi Foundation, we give every child in Nigeria and South Africa the opportunity to learn, grow...
         </p>
         <div class="btn-wrap">
-            <a href="about.html" class="th-btnn">Learn More <i class="fas fa-arrow-up-right ms-2"></i></a>
+            <a href="" class="th-btnn">Learn More <i class="fas fa-arrow-up-right ms-2"></i></a>
         </div>
         </div>
 
@@ -74,7 +74,7 @@
         At Onyemachi Foundation, we provide essential medical care and health education to...
         </p>
         <div class="btn-wrap">
-            <a href="about.html" class="th-btnn">Learn More <i class="fas fa-arrow-up-right ms-2"></i></a>
+            <a href="" class="th-btnn">Learn More <i class="fas fa-arrow-up-right ms-2"></i></a>
         </div>
       </div>
         
@@ -116,7 +116,7 @@
         </p>
     
         <div class="btn-wrap">
-            <a href="about.html" class="th-btnn">Learn More <i class="fas fa-arrow-up-right ms-2"></i></a>
+            <a href="" class="th-btnn">Learn More <i class="fas fa-arrow-up-right ms-2"></i></a>
         </div>
         </div>
 
