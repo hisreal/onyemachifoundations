@@ -7,7 +7,7 @@
     <div class="row d-flex justify-content-center text-center">
       <div class="col-12 col-md-10 col-lg-8">
         
-        <h1 class="fw-bold display-4 mb-3">
+        <h1 class="fw-bold display-2 mb-3">
           Our Initiatives
         </h1>
          <center> <p style="font-weight: 500; line-height: 1.5em; font-size: 16px"  class="hero-text  text-white">
@@ -32,8 +32,8 @@
       </div>
 
       <!-- right text block -->
-      <div style="line-height: 0px" class="col-lg-6 d-flex flex-column justify-content-center align-items-center align-items-lg-start text-center text-lg-start">
-        <h4 style="font-weight: 900; line-height: 0.5em;" class="fw-bold mb-3">
+      <div style="line-height: 0px" class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-start">
+        <h4 style="font-weight: 900; line-height: 0.5em;" class="mb-2">
            Education
         </h4>
         <p class="text-muted">
@@ -61,9 +61,10 @@
 
       <!-- TEXT BLOCK (comes second on mobile, first on desktop) -->
       <div style="line-height: 0px"
-           class="col-lg-6 d-flex flex-column justify-content-center align-items-center align-items-lg-start text-center text-lg-start order-2 order-lg-1">
+           class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-start
+ order-2 order-lg-1">
         
-        <h4 style="font-weight: 900; line-height: 0.5em;" class="fw-bold mb-3">
+        <h4 style="font-weight: 900; line-height: 0.5em;" class="mb-2">
            Healthcare
         </h4>
         <p class="text-muted">
@@ -102,8 +103,9 @@
       </div>
 
       <!-- right text block -->
-      <div style="line-height: 0px" class="col-lg-6 d-flex flex-column justify-content-center align-items-center align-items-lg-start text-center text-lg-start">
-        <h4 style="font-weight: 900; line-height: 0.5em;" class="fw-bold mb-3">
+      <div style="line-height: 0px" class="col-lg-6 d-flex flex-column justify-content-center align-items-start text-start">
+
+        <h4 style="font-weight: 900; line-height: 0.5em;" class="mb-2">
            Empowerment
         </h4>
         <p class="text-muted">
