@@ -98,7 +98,7 @@
       <!-- left photo card -->
       <div class="col-lg-6 mb-4 mb-lg-0">
           <div style=" width: 100%; height: 300px; overflow: hidden;" class="hero-photo-inner">
-            <img src="assets/img/initiatives/empowerment.jpg" style="width: 100%; height: 100%; object-fit: cover; object-position: center; border-radius: 15px" class="img-fluid rounded-4" alt="Onyechifoundation">
+            <img src="assets/img/initiatives/empower.jpg" style="width: 100%; height: 100%; object-fit: cover; object-position: center; border-radius: 15px" class="img-fluid rounded-4" alt="Onyechifoundation">
           </div>
       </div>
 
