@@ -2372,6 +2372,21 @@ textarea.is-invalid {
   }
 }
 /*------------------- 3.2. Buttons -------------------*/
+.th-btnn {
+  display: inline-flex;
+  border: none;
+  color: var(--theme-color);
+  font-family: var(--body-font);
+  font-size: 14px;
+  font-weight: 900;
+  line-height: 1;
+  padding: 15px;
+  padding-left: 0px;
+  padding-top: 0px;
+  
+  border-bottom: 2px solid var(--theme-color);
+
+}
 .th-btn {
   position: relative;
   z-index: 2;
@@ -5178,14 +5193,14 @@ a.text-theme:hover,
   /* Large devices */
 }
 .widget-donation-wrap .donate-price {
-  background: var(--theme-color2);
+  background: var(--theme-color);
   display: inline-block;
   font-size: 48px;
   font-weight: 800;
   color: var(--white-color);
-  width: 120px;
-  height: 120px;
-  line-height: 120px;
+  width: 100px;
+  height: 100px;
+  line-height: 100px;
   border-radius: 50%;
   margin-bottom: 25px;
 }

@@ -110,7 +110,7 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
                                 </li>
                                <li><a href="about.php">About Us</a></li>
                                 <li class="menu-item-has-children">
-                                    <a href="#">Initiatives</a>
+                                    <a href="initiatives.php">Initiatives</a>
                                     <ul class="sub-menu">
                                         <li><a href="">Education</a></li>
                                         <li><a href="">Healthcare</a></li>
@@ -141,7 +141,7 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
                                 </li>
                                <li><a class="<?= ($current_page == 'about.php') ? 'active' : '' ?>" href="about.php">About Us</a></li>
                                 <li class="menu-item-has-children">
-                                    <a href="#">Initiatives</a>
+                                    <a class="<?= ($current_page == 'initiatives.php') ? 'active' : '' ?>"href="initiatives.php">Initiatives</a>
                                     <ul class="sub-menu">
                                         <li><a href="">Education</a></li>
                                         <li><a href="">Healthcare</a></li>
