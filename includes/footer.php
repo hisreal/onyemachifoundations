@@ -36,7 +36,7 @@
                             <div class="menu-all-pages-container">
                                 <ul class="menu text-white">
                                     <li style="font-color: white" ><a  href="about.php">About Us</a></li>
-                                    <li><a href="">Our Initiatives</a></li>
+                                    <li><a href="initiatives.php">Our Initiatives</a></li>
                                     <li><a href="">Projects</a></li>
                                     <li><a href="">Donation</a></li>
                                     <li><a href="">FAQ</a></li>

@@ -21,7 +21,7 @@
                                         </h1>
 
                                         <div class="btn-wrap justify-content-center" data-ani="slideinup" data-ani-delay="0.7s">
-                                             <a href="" class="th-btn style4">Our Initiatives<i class="fas fa-arrow-up-right ms-2"></i></a>
+                                             <a href="initiatives.php" class="th-btn style4">Our Initiatives<i class="fas fa-arrow-up-right ms-2"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -47,7 +47,7 @@
                                           
 
                                         <div class="btn-wrap justify-content-center" data-ani="slideinup" data-ani-delay="0.7s">
-                                             <a href="" class="th-btn style4">Our Initiatives<i class="fas fa-arrow-up-right ms-2"></i></a>
+                                             <a href="initiatives.php" class="th-btn style4">Our Initiatives<i class="fas fa-arrow-up-right ms-2"></i></a>
                                         </div>
                                     </div>
                                 </div>
@@ -74,7 +74,7 @@
                                           
 
                                         <div class="btn-wrap justify-content-center" data-ani="slideinup" data-ani-delay="0.7s">
-                                             <a href="" class="th-btn style4">Our Initiatives<i class="fas fa-arrow-up-right ms-2"></i></a>
+                                             <a href="initiatives.php" class="th-btn style4">Our Initiatives<i class="fas fa-arrow-up-right ms-2"></i></a>
                                     </div>
                                 </div>
                             </div>
