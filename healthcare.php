@@ -12,7 +12,7 @@
         Healthcare
       </h1>
 
-      <p style="font-size: 16px" class="fs- mb-4 text-white">
+      <p style="font-size: 14px" class="fs- mb-4 text-white">
       We promote healthier communities through medical outreach programs,
        health awareness campaigns, and free/affordable healthcare interventions.
 

@@ -12,7 +12,7 @@
         Education
       </h1>
 
-      <p style="font-size: 16px" class="fs- mb-4 text-white">
+      <p style="font-size: 14px" class="fs- mb-4 text-white">
        We support young minds through scholarships, school
         supplies, mentorship, digital literacy, and community learning programs.
       </p>
