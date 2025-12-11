@@ -115,7 +115,9 @@
                     </div>
                     <h3 class="box-title">Education</h3>
                     <p class="box-text">
-                        We support young minds through scholarships, school supplies, mentorship, digital literacy, and community learning programs.                    <a class="link-btn style2" href="">Read More <i class="fa-solid fa-arrow-up-right ms-2"></i></a>
+                        We support young minds through scholarships, school supplies, mentorship, digital literacy, and community learning programs. 
+                        </p>                  
+                        <a class="link-btn style2" href="">Read More <i class="fa-solid fa-arrow-up-right ms-2"></i></a>
                 </div>
             </div>
 
