@@ -112,7 +112,7 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
                                 <li class="menu-item-has-children">
                                     <a href="initiatives.php">Initiatives</a>
                                     <ul class="sub-menu">
-                                        <li><a href="">Education</a></li>
+                                        <li><a href="education.php">Education</a></li>
                                         <li><a href="">Healthcare</a></li>
                                         <li><a href="">Empowerment</a></li>
                                     </ul>
@@ -143,7 +143,7 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
                                 <li class="menu-item-has-children">
                                     <a class="<?= ($current_page == 'initiatives.php') ? 'active' : '' ?>"href="initiatives.php">Initiatives</a>
                                     <ul class="sub-menu">
-                                        <li><a href="">Education</a></li>
+                                        <li><a href="education.php">Education</a></li>
                                         <li><a href="">Healthcare</a></li>
                                         <li><a href="">Empowerment</a></li>
                                     </ul>
