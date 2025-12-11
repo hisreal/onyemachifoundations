@@ -109,7 +109,7 @@
         <div class="row gy-30 gx-30 justify-content-center">
 
             <div class="col-xl-4 col-lg-4">
-                <div class="feature-card">
+                <div style="height: 350px" class="feature-card">
                     <div class="box-icon">
                         <img src="assets/img/icon/service-icon/service-card-icon1-2.svg" alt="Education Initiative Icon">
                     </div>
@@ -122,7 +122,7 @@
             </div>
 
             <div class="col-xl-4 col-lg-4">
-                <div class="feature-card">
+                <div style="height: 350px" class="feature-card">
                     <div class="box-icon">
                         <img src="assets/img/icon/service-icon/service-card-icon1-3.svg" alt="Healthcare Initiative Icon">
                     </div>
@@ -134,14 +134,14 @@
             </div>
 
             <div class="col-xl-4 col-lg-4">
-                <div class="feature-card">
+                <div style="height: 350px" class="feature-card">
                     <div class="box-icon">
                         <img src="assets/img/icon/feature-icon1-1.svg" alt="Empowerment Initiative Icon">
                     </div>
                     <h3 class="box-title">Empowerment</h3>
                     <p class="box-text">
                             We empower youths, women, and families through skills acquisition, entrepreneurship training, small business support, and leadership development.                    </p>
-                    <a class="link-btn style2" href="">View Details <i class="fa-solid fa-arrow-up-right ms-2"></i></a>
+                    <a class="link-btn style2" href="">Read More<i class="fa-solid fa-arrow-up-right ms-2"></i></a>
                 </div>
             </div>
 
