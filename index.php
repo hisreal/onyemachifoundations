@@ -129,7 +129,7 @@
                     <h3 class="box-title">Healthcare</h3>
                     <p class="box-text">
                         We promote healthier communities through medical outreach programs, health awareness campaigns, and free/affordable healthcare interventions.                    </p>
-                    <a class="link-btn style2" href="">Read More <i class="fa-solid fa-arrow-up-right ms-2"></i></a>
+                    <a class="link-btn style2" href="healthcare.php">Read More <i class="fa-solid fa-arrow-up-right ms-2"></i></a>
                 </div>
             </div>
 

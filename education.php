@@ -1,6 +1,6 @@
 <?php require_once 'includes/header.php';?>
 
-<section style="background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+<section style="background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), 
              url('assets/img/initiatives/schools.jpg');" class="hero-banner2">
   <div class="container">
     <div class="hero-content2">
@@ -12,7 +12,7 @@
         Education
       </h1>
 
-      <p class="fs-5 mb-4 text-white">
+      <p style="font-size: 16px" class="fs- mb-4 text-white">
        We support young minds through scholarships, school
         supplies, mentorship, digital literacy, and community learning programs.
       </p>
@@ -99,7 +99,25 @@
                   
                 </div>
 
-           <?php require_once 'calltoaction.php'; ?>
+              <!-- call to action banner -->
+                <div class="cta-banner p-4 p-md-5">
+                    <div class="row align-items-center">
+                        <div class="col-md-9 mb-3 mb-md-0">
+                            <h5 class="fw-bold mb-2 text-white">Join Us</h5>
+                            <p class="text-white">
+                                You can be part of shaping Africa's future. Support 
+                            a child's education, donate learning materials, volunteer
+                             as a mentor, or partner with us to expand our reach.
+                            Together, we can open doors to opportunity, one child at a time.
+                            </p>
+                        </div>
+                          <div class="btn-wrap mt-30">
+                                <a href="donation.php" class="th-btn">Visit Contribution Page<i class="fas fa-arrow-up-right ms-2"></i></a>
+                         </div>
+                        
+                    </div>
+                </div>
+
             </div>
 
             <!-- sidebar -->
