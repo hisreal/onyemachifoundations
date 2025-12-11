@@ -49,9 +49,9 @@
                             <h3 class="widget_title">Our Initiatives</h3>
                             <div class="menu-all-pages-container">
                                 <ul class="menu">
-                                    <li><a href="">Education</a></li>
-                                    <li><a href="">Healthcare</a></li>
-                                    <li><a href="">Empowerment</a></li>
+                                    <li><a href="education.php">Education</a></li>
+                                    <li><a href="healthcare.php">Healthcare</a></li>
+                                    <li><a href="empowerment.php">Empowerment</a></li>
                                 </ul>
                             </div>
                         </div>

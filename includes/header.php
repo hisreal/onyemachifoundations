@@ -114,7 +114,7 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
                                     <ul class="sub-menu">
                                         <li><a href="education.php">Education</a></li>
                                         <li><a href="healthcare.php">Healthcare</a></li>
-                                        <li><a href="">Empowerment</a></li>
+                                        <li><a href="empowerment.php">Empowerment</a></li>
                                     </ul>
                                 </li>
                                <li><a href="">Projects</a></li>
@@ -145,7 +145,7 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
                                     <ul class="sub-menu">
                                         <li><a href="education.php">Education</a></li>
                                         <li><a href="healthcare.php">Healthcare</a></li>
-                                        <li><a href="">Empowerment</a></li>
+                                        <li><a href="empowerment.php">Empowerment</a></li>
                                     </ul>
                                 </li>
                                <li><a href="">Projects</a></li>

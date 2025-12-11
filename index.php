@@ -141,7 +141,7 @@
                     <h3 class="box-title">Empowerment</h3>
                     <p class="box-text">
                             We empower youths, women, and families through skills acquisition, entrepreneurship training, small business support, and leadership development.                    </p>
-                    <a class="link-btn style2" href="">Read More<i class="fa-solid fa-arrow-up-right ms-2"></i></a>
+                    <a class="link-btn style2" href="empowerment.php">Read More<i class="fa-solid fa-arrow-up-right ms-2"></i></a>
                 </div>
             </div>
 
