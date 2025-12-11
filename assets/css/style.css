@@ -23081,3 +23081,125 @@ span.select2-selection.select2-selection--single:focus {
 .hero-content {
     width: 100%;
 }
+
+    .quote-box {
+        background: #f7fafc;
+        border-left: 4px solid #fbbf24;
+        padding: 1.25rem 1.5rem;
+        border-radius: 0.75rem;
+        font-size: 0.95rem;
+    }
+
+    .objective-card {
+        border-radius: 0.75rem;
+        border: 1px solid #e5e7eb;
+        padding: 1.5rem;
+        background: #efeeee;
+        transition: transform 0.15s ease, box-shadow 0.15s ease;
+    }
+
+    .objective-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 10px 25px rgba(15, 23, 42, 0.08);
+    }
+
+    .objective-icon {
+        width: 36px;
+        height: 36px;
+        border-radius: 999px;
+        background: #ecfdf5;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 0.75rem;
+        font-size: 1.2rem;
+        color: #16a34a;
+    }
+
+    .cta-banner {
+        background: #262626;
+        border-radius: 0.75rem;
+        color: #ffffff;
+    }
+
+    .cta-banner p {
+        margin-bottom: 0;
+        font-size: 0.95rem;
+    }
+
+    .sidebar-card {
+        border-radius: 0.75rem;
+        border: 1px solid #e5e7eb;
+    }
+
+    .sidebar-list a {
+        text-decoration: none;
+        color: #262626;
+        font-size: 0.95rem;
+        padding: 10px;
+    }
+
+     .sidebar-list li a:hover{
+        text-decoration: none;
+        color: white;
+        width: auto;
+        padding: 10px 50px;
+        background: #125a52;
+        font-size: 0.95rem;
+    }
+
+    .sidebar-list li + li {
+        margin-top: 0.5rem;
+    }
+
+    .hero-banner2 {
+    position: relative;
+    min-height: 420px;
+    background-size: cover;
+    background-position: center;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+}
+
+/* dark overlay */
+.hero-banner2::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.55);
+}
+
+/* content sits above overlay */
+.hero-content2 {
+    position: relative;
+    max-width: 640px;
+}
+
+/* yellow icon square */
+.hero-icon {
+    width: 64px;
+    height: 64px;
+    border-radius: 16px;
+    background: #fbbf24;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.25rem;
+    font-size: 1.8rem;
+    color: #ffffff;
+}
+
+/* share pill */
+.hero-share {
+    border-radius: 999px;
+    background: rgba(251, 191, 36, 0.85);
+    color: #1f2933;
+    border: none;
+    padding: 0.6rem 1.6rem;
+    font-weight: 500;
+    backdrop-filter: blur(4px);
+}
+.hero-share i {
+    margin-right: 0.5rem;
+}

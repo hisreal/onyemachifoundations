@@ -1,0 +1,162 @@
+<?php require_once 'includes/header.php';?>
+
+    <!--==============================
+    Breadcumb
+============================== -->
+    <div class="breadcumb-wrapper " data-bg-src="assets/img/bg/breadcumb-bg.jpg" data-overlay="theme">
+        <div class="container">
+            <div class="breadcumb-content">
+                <h1 class="breadcumb-title">Blog Details</h1>
+                <ul class="breadcumb-menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li>Blog Details</li>
+                </ul>
+            </div>
+        </div>
+    </div><!--==============================
+    Blog Area
+==============================-->
+   <section class="py-5">
+    <div class="container">
+        <div class="row g-4">
+            <!-- main content -->
+            <div class="col-lg-8">
+
+                <p class="mb-3">
+                 Education is transformative. It's the foundation for breaking cycles of poverty and opening the door to limitless possibilities.
+                    At Onyemachi Foundation, we give every child in Nigeria and South Africa the opportunity to learn, grow and achieve their dreams with plans to extend across Africa.
+                </p>
+
+                <!-- quote box -->
+                <div class="quote-box mb-5">
+                    <p class="mb-1">
+                        “Education is the most powerful weapon which you can use to change the world.”
+                    </p>
+                    <small class="fw-semibold">Nelson Mandela</small>
+                </div>
+
+                <!-- why section -->
+                <h3 class="fw-bold mb-3">Why Quality Education Matters</h3>
+                <p class="mb-4">
+                   Millions of children across underserved communities lack the tools and 
+                   opportunities needed to succeed academically. Limited access to school fees, 
+                   learning materials, digital tools, and guidance often leads to lost potential
+                    and continued cycles of poverty.
+                    Onyemachi Foundation believes education is the strongest pathway to empowerment. 
+                    When a child is educated, a family grows, a community strengthens, and a nation prospers.
+                </p>
+
+                             <blockquote class="bg-white">
+                                <p>Education renews hope, transforms lives, and builds the foundation for a stronger future.</p>
+                                <!--<cite>Michel Clarck</cite>-->
+                            </blockquote>
+
+                <!-- objectives -->
+                <h4 class="fw-bold mb-3">Our Objectives</h4>
+                <!--<p class="mb-4">
+                   
+                </p>-->
+
+                <div class="row g-3 mb-5">
+                    <div class="col-md-6">
+                        <div class="objective-card h-50">
+                            <!--<div class="objective-icon">
+                                <i class="bi bi-building"></i>
+                            </div>-->
+                            <!--<h6 class="fw-semibold mb-1">Infrastructure Revamp</h6>-->
+                            <p class="text-muted mb-0">
+                              Support children with scholarships, school supplies, and digital learning resources.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="objective-card h-100">
+                            <div class="objective-icon">
+                                <i class="bi bi-journal-text"></i>
+                            </div>
+                            <h6 class="fw-semibold mb-1">Learning Resource Provision</h6>
+                            <p class="text-muted mb-0">
+                                Equipping schools with modern teaching materials, including textbooks, digital tools,
+                                and science laboratory equipment.
+                            </p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <div class="objective-card h-100">
+                            <div class="objective-icon">
+                                <i class="bi bi-people"></i>
+                            </div>
+                            <h6 class="fw-semibold mb-1">Community Engagement</h6>
+                            <p class="text-muted mb-0">
+                                Collaborating with local communities to ensure sustainability and ownership of the
+                                transformation projects.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- call to action banner -->
+                <div class="cta-banner p-4 p-md-5">
+                    <div class="row align-items-center">
+                        <div class="col-md-9 mb-3 mb-md-0">
+                            <h5 class="fw-bold mb-2">Get Involved</h5>
+                            <p>
+                                MVOI believes that education is a shared responsibility. We invite individuals,
+                                corporate organisations, and government agencies to join hands in transforming the
+                                future of Nigerias children. Whether through financial contributions, volunteering, or
+                                spreading the word, your support can make a difference.
+                            </p>
+                        </div>
+                        <div class="col-md-3 text-md-end">
+                            <a href="#" class="btn btn-warning fw-semibold">
+                                Visit Contribute Page
+                            </a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- sidebar -->
+            <div class="col-lg-4">
+                <div class="sidebar-card p-4 mb-4 ">
+                    <h6 class="fw-bold mb-3">Other Initiatives</h6>
+                    <ul class="list-unstyled sidebar-list mb-3">
+                        <li>
+                            <a href="#">
+                                <i class="bi bi-check-circle-fill me-2 text-success"></i>
+                                Disaster Relief and Advocacy
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="bi bi-check-circle-fill me-2 text-success"></i>
+                                Access to Clean Water
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#">
+                                <i class="bi bi-check-circle-fill me-2 text-success"></i>
+                                Youth Empowerment
+                            </a>
+                        </li>
+                    </ul>
+                    <hr>
+                    <h6 class="fw-bold mt-3 mb-1">Need Help</h6>
+                    <p class="text-muted mb-2">
+                        Contact us for more information about this specific program.
+                    </p>
+                    <a href="#" class="fw-semibold text-primary text-decoration-none">
+                        Contact Us
+                        <span class="ms-1">&rarr;</span>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<?php require_once 'includes/footer.php'; ?>
