@@ -158,7 +158,7 @@
                     <h6 class="fw-bold mb-3">Other Initiatives</h6>
                    <ul class="list-unstyled sidebar-list mb-3">
                         <li>
-                            <a href="healthcare.php">
+                            <a href="education.php">
                                 <i class="fa-solid fa-circle-check me-2 text-theme"></i>
                                 Education
                             </a>
