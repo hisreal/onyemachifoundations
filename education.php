@@ -126,13 +126,13 @@
                     <h6 class="fw-bold mb-3">Other Initiatives</h6>
                    <ul class="list-unstyled sidebar-list mb-3">
                         <li>
-                            <a href="#">
+                            <a href="healthcare.php">
                                 <i class="fa-solid fa-circle-check me-2 text-theme"></i>
                                 HealthCare
                             </a>
                         </li>
                         <li>
-                            <a href="#">
+                            <a href="empowerment.php">
                                 <i class="fa-solid fa-circle-check me-2 text-theme"></i>
                                 Empowerment
                             </a>
