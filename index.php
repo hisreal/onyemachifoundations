@@ -89,7 +89,7 @@
                     <a class="nav-link th-btn" id="description-tab" data-bs-toggle="tab" href="#description">Get Involved</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link th-btn active" id="reviews-tab" data-bs-toggle="tab" href="#reviews">Learn More</a>
+                    <a class="nav-link th-btn active" id="reviews-tab" data-bs-toggle="tab" href="about.php">Learn More</a>
                 </li>
             </ul>
 

@@ -119,9 +119,9 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
                                         <li><a href="empowerment.php">Empowerment</a></li>
                                     </ul>
                                 </li>
-                               <li><a href="">Projects</a></li>
+                               <li><a href="projects.php">Projects</a></li>
                                <li><a href="">Donations</a></li>
-                               <a style="padding: 15px; width: 100%" href="" class="th-btn style3">Contact Us</a>
+                               <a style="padding: 15px; width: 100%" href="contact.php" class="th-btn style3">Contact Us</a>
                                 <a style="padding: 15px; width: 100%; margin-top: 5px" href="" class="th-btn style4"><i class="fas fa-heart me-2"></i> Donate Now</a>
 
                             </ul>
@@ -154,7 +154,8 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
                                         <li><a href="empowerment.php">Empowerment</a></li>
                                     </ul>
                                 </li>
-                               <li><a href="">Projects</a></li>
+                               <li><a class="<?= ($current_page == 'projects.php') ? 'active' : '' ?>" href="projects.php" href="projects.php">Projects</a></li>
+                               <li><a class="<?= ($current_page == 'contact.php') ? 'active' : '' ?>" href="contact.php"href="contact.php">Contact Us</a></li>
                                <li><a href="">Donations</a></li>
                                
                             </ul>

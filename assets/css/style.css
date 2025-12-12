@@ -23203,3 +23203,85 @@ span.select2-selection.select2-selection--single:focus {
 .hero-share i {
     margin-right: 0.5rem;
 }
+.contact-card {
+    background: #ebfffc;
+    border-radius: 18px;
+    border: 1px solid #125a52;
+}
+
+.contact-icon-circle {
+    width: 46px;
+    height: 46px;
+    border-radius: 999px;
+    background: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #125a52;
+    font-size: 1.3rem;
+    margin-right: 0.9rem;
+}
+
+.bank-card {
+    background: #021a1f;
+    border-radius: 18px;
+    color: #e5f6ff;
+}
+
+.bank-card table {
+    color: inherit;
+    font-size: 0.95rem;
+}
+
+.form-card {
+    background: #fbfcfd;
+    border-radius: 18px;
+    border: 1px solid #edf2f7;
+}
+
+.btn-primary-custom {
+    background: #005a68;
+    border-color: #005a68;
+}
+
+.btn-primary-custom:hover {
+    background: #004450;
+    border-color: #004450;
+}
+
+.coming-icon-wrapper {
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    border: 5px solid #006b72;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    background: #ffffff;
+    box-shadow: 0 12px 40px rgba(0,0,0,0.08);
+}
+
+.coming-icon-wrapper i {
+    font-size: 40px;
+    color: #006b72;
+}
+
+.return-btn {
+    background: #125a52;
+    color: #ffffff;
+    padding: 0.9rem 2rem;
+    border-radius: 999px;
+    font-weight: 600;
+    border: none;
+    font-size: 1rem;
+}
+
+.return-btn i {
+    margin-right: 0.5rem;
+}
+
+.return-btn:hover {
+    background: #262626;
+    color: #ffffff;
+}
