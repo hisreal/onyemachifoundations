@@ -1,3 +1,10 @@
+<?php
+$current_page = basename($_SERVER['PHP_SELF']);
+$current_dir  = basename(dirname($_SERVER['PHP_SELF']));
+$title = "Onyemachi Foundation - Empowering Lives Through Education, Healthcare & Empowering";
+$description = "Onyemachi Foundation is a non-profit organization empowering children, youths, and families across Africa through education, healthcare, and community development initiatives.";
+$keywords = "Onyemachi Foundation, NGO in Nigeria, charity organization Africa, education charity, healthcare outreach Africa, empowerment programs, non-profit organization, community development Nigeria";
+?>
 <?php require_once 'includes/header.php';?>
 <?php require_once 'includes/slider.php';?>
 
@@ -86,7 +93,7 @@
 
             <ul class="nav product-tab-style1" id="productTab" role="tablist">
                 <li class="nav-item">
-                    <a class="nav-link th-btn" id="description-tab" data-bs-toggle="tab" href="donations.php">Get Involved</a>
+                    <a class="nav-link th-btn" id="description-tab" data-bs-toggle="tab" href="contact.php">Get Involved</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link th-btn active" id="reviews-tab" data-bs-toggle="tab" href="about.php">Learn More</a>
@@ -161,7 +168,7 @@
                     <h2 class="sec-title text-white" style="text-transform: capitalize;">
                         Let's work together to build brighter futures today and for generations to come.
                     </h2>
-                    <a href="contact.html" class="th-btn style5 mt-40" style="background: white; color: #125a52;">
+                    <a href="contact.php" class="th-btn style5 mt-40" style="background: white; color: #125a52;">
                         Get Involved <i class="fas fa-arrow-up-right ms-2"></i>
                     </a>
                 </div>

@@ -1,3 +1,10 @@
+<?php
+$current_page = basename($_SERVER['PHP_SELF']);
+$current_dir  = basename(dirname($_SERVER['PHP_SELF']));
+$title = "Healthcare Initiative| Onyemachi Foundation - Transforming Communities Through Action";
+$description = "Learn about the core initiatives of Onyemachi Foundation, including education support, medical missions, youth empowerment, skillbuilding programs, and community welfare efforts aimed at creating sustainable change.";
+$keywords = "Onyemachi Foundation initiatives, NGO initiatives Africa, education initiative Nigeria, empowerment programs Africa, healthcare initiative Nigeria, nonprofit community initiatives, charity programs Africa";
+?>
 <?php require_once 'includes/header.php';?>
 
 <section style="background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), 
@@ -144,7 +151,7 @@
                             </p>
                         </div>
                           <div class="btn-wrap mt-30">
-                                <a href="donation.php" class="th-btn">Visit Contribution Page<i class="fas fa-arrow-up-right ms-2"></i></a>
+                                <a href="contact.php" class="th-btn">Visit Contribution Page<i class="fas fa-arrow-up-right ms-2"></i></a>
                          </div>
                         
                     </div>

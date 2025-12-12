@@ -1,17 +1,12 @@
-<?php
-$current_page = basename($_SERVER['PHP_SELF']);
-$current_dir  = basename(dirname($_SERVER['PHP_SELF']));
-?>
-
 <!doctype html>
 <html class="no-js" lang="zxx" dir="ltr">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Onyemachi Foundation - Empowering Lives Through Education, Healthcare & Community Support</title>
+    <title><?php echo $title; ?></title>
 
-    <meta name="description" content="Onyemachi Foundation is a non-profit organization empowering children, youths, and families across Africa through education, healthcare, and community development initiatives.">
-    <meta name="keywords" content="Onyemachi Foundation, NGO in Nigeria, charity organization Africa, education charity, healthcare outreach Africa, empowerment programs, non-profit organization, community development Nigeria">
+    <meta name="description" content="<?php echo $description; ?>">
+    <meta name="keywords" content="<?php echo $keywords; ?>">
 
     <meta name="author" content="Onyemachi Foundation">
     <meta name="robots" content="index, follow">
@@ -30,14 +25,14 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
     <!-- ============================
          SOCIAL MEDIA / OPEN GRAPH
     ============================= -->
-    <meta property="og:title" content="Onyemachi Foundation – Empowering Dreams, Transforming Lives">
+    <meta property="og:title" content="Onyemachi Foundation - Empowering Dreams, Transforming Lives">
     <meta property="og:description" content="We provide access to education, healthcare, and empowerment programs that uplift communities across Africa. Join us in making a difference.">
     <meta property="og:image" content="https://www.yourwebsite.com/assets/img/portfolio/logo1.png">
     <meta property="og:url" content="https://www.yourwebsite.com/">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
-    <meta name="twitter:title" content="Onyemachi Foundation – Empowering Communities">
+    <meta name="twitter:title" content="Onyemachi Foundation - Empowering Communities">
     <meta name="twitter:description" content="A non-profit organization dedicated to improving the lives of children, families, and communities through education and healthcare programs.">
     <meta name="twitter:image" content="https://www.yourwebsite.com/assets/img/portfolio/logo1.png">
     <meta name="twitter:card" content="summary_large_image">
@@ -148,7 +143,7 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
                                 <li class="menu-item-has-children">
                                     <a class="<?= ($current_page == 'initiatives.php') ? 'active' : '' ?>"href="initiatives.php">Initiatives</a>
                                     <ul class="sub-menu">
-                                        <li><a href="initiatives.php">All Initiatives</a></li>
+                                        <li><a class="<?= ($current_page == 'initiatives.php') ? 'active' : '' ?>" href="initiatives.php">All Initiatives</a></li>
                                         <li><a href="education.php">Education</a></li>
                                         <li><a href="healthcare.php">Healthcare</a></li>
                                         <li><a href="empowerment.php">Empowerment</a></li>
@@ -156,7 +151,7 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
                                 </li>
                                <li><a class="<?= ($current_page == 'projects.php') ? 'active' : '' ?>" href="projects.php" href="projects.php">Projects</a></li>
                                <li><a class="<?= ($current_page == 'contact.php') ? 'active' : '' ?>" href="contact.php"href="contact.php">Contact Us</a></li>
-                               <li><a class="<?= ($current_page == 'contact.php') ? 'active' : '' ?>" href="donations.php">Donations</a></li>
+                               <li><a class="<?= ($current_page == 'donation.php') ? 'active' : '' ?>" href="donations.php">Donations</a></li>
                                
                             </ul>
                         </nav>

@@ -1,3 +1,10 @@
+<?php
+$current_page = basename($_SERVER['PHP_SELF']);
+$current_dir  = basename(dirname($_SERVER['PHP_SELF']));
+$title = "Our Projects | Onyemachi Foundation - Education, Healthcare and Community Impact";
+$description = "Explore ongoing and completed projects by Onyemachi Foundation. From school support and medical outreach to skills empowerment and rural development, our initiatives create measurable impact in communities across Africa.";
+$keywords = "Onyemachi Foundation projects, NGO projects Africa, charity work Nigeria, education projects Africa, healthcare outreach projects, empowerment initiatives Nigeria, community development projects";
+?>
 <?php require_once 'includes/header.php';?>
 
 <section class="py-5" style="background:#f9fbfc; min-height: 75vh;">

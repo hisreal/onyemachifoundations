@@ -1,3 +1,10 @@
+<?php
+$current_page = basename($_SERVER['PHP_SELF']);
+$current_dir  = basename(dirname($_SERVER['PHP_SELF']));
+$title = "Contact Onyemachi Foundation – Reach Our Team Today";
+$description = "Get in touch with Onyemachi Foundation for enquiries, partnerships, volunteer opportunities, or support. Our team is committed to responding and working with individuals, donors, and communities to drive meaningful change.";
+$keywords = "Contact Onyemachi Foundation, NGO contact Nigeria, charity enquiries Africa, partner with NGO, volunteer opportunities Nigeria, foundation support, nonprofit communication Africa";
+?>
 <?php require_once 'includes/header.php';?>
 
 <section class="py-5">
@@ -50,7 +57,7 @@
             </div>
             <div>
               <div class="fw-semibold">Email</div>
-              <div class="text-muted">contact@onyemachifoundation.com</div>
+              <div style="font-size: 14px" class="text-muted">contact@onyemachifoundation.com</div>
             </div>
           </div>
         </div>

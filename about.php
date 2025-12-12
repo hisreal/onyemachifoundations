@@ -1,3 +1,10 @@
+<?php
+$current_page = basename($_SERVER['PHP_SELF']);
+$current_dir  = basename(dirname($_SERVER['PHP_SELF']));
+$title = "Onyemachi Foundation | About Us - Our Mission to Educate, Heal and Empower";
+$description = "Discover the mission, vision, and core values of Onyemachi Foundation. We are dedicated to transforming lives across Africa through education, healthcare access, empowerment initiatives, and sustainable community developmen.";
+$keywords = "Onyemachi Foundation mission, about Onyemachi Foundation, NGO vision Nigeria, African charity values, education mission Africa, community development goals, empowerment foundation Nigeria, healthcare charity Africa";
+?>
 <?php require_once 'includes/header.php';?>
 
     <!--==============================
