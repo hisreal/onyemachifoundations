@@ -22,7 +22,7 @@
     </p>
 
     <!-- return button -->
-    <a href="/" class="return-btn d-inline-flex align-items-center shadow">
+    <a href="index.php" class="return-btn d-inline-flex align-items-center shadow">
       <i class="fa-solid fa-arrow-left"></i>
       Return to Home
     </a>
