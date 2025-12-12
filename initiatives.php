@@ -74,7 +74,7 @@
         At Onyemachi Foundation, we provide essential medical care and health education to...
         </p>
         <div class="btn-wrap">
-            <a href="" class="th-btnn">Learn More <i class="fas fa-arrow-up-right ms-2"></i></a>
+            <a href="healthcare.php" class="th-btnn">Learn More <i class="fas fa-arrow-up-right ms-2"></i></a>
         </div>
       </div>
         
@@ -116,7 +116,7 @@
         </p>
     
         <div class="btn-wrap">
-            <a href="" class="th-btnn">Learn More <i class="fas fa-arrow-up-right ms-2"></i></a>
+            <a href="empowerment.php" class="th-btnn">Learn More <i class="fas fa-arrow-up-right ms-2"></i></a>
         </div>
         </div>
 
