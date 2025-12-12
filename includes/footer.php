@@ -15,15 +15,16 @@
                                 <p style="color: white"  class="about-text mb-3">A non-profit organization dedicated to improving the quality of life for children, youths, and families.
                                     Join us in making a difference</p>
                                <div class="th-social style6">
+                                  <a href="https://www.instagram.com/onyemachifoundation?igsh=c3p1NGZuc3hveTlq">
+                                    <i class="fab fa-instagram"></i>
+
+                                </a>
                                 <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
                                 <a href="https://www.twitter.com/">
                                     <i class="fa fa-x-twitter"></i>
 
                                 </a>
-                                <a href="https://www.instagram.com/">
-                                    <i class="fab fa-instagram"></i>
-
-                                </a>
+                              
                                 <a href="https://www.linkedin.com/"><i class="fab fa-linkedin-in"></i></a>
                             </div>
                                 

@@ -2,7 +2,7 @@
         <div class="swiper th-slider hero-slider1" id="heroSlide1" data-slider-options='{"effect":"fade", "autoHeight": "true"}'>
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
-                    <div class="hero-inner" data-bg-src="assets/img/portfolio/dream.jpg" data-overlay="black4" data-opacity="5">
+                    <div class="hero-inner" data-bg-src="assets/img/initiatives/schools.jpg" data-overlay="black4" data-opacity="5">
                      
                         <div class="container">
                             <div class="row justify-content-center">
@@ -31,7 +31,7 @@
 
                 </div>
                 <div class="swiper-slide">
-                    <div class="hero-inner" data-bg-src="assets/img/portfolio/mind.jpg" data-overlay="black4" data-opacity="5">
+                    <div class="hero-inner" data-bg-src="assets/img/initiatives/public_banner.jpg" data-overlay="black4" data-opacity="5">
                       
                         <div class="container">
                             <div class="row justify-content-center">

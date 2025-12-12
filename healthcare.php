@@ -176,7 +176,7 @@
                     <p class="text-muted mb-2">
                         Contact us for more information about this specific program.
                     </p>
-                    <a href="#" class="fw-semibold text-primary text-decoration-none">
+                    <a href="#" class="fw-semibold text-theme text-decoration-none">
                         Contact Us
                         <span class="ms-1">&rarr;</span>
                     </a>

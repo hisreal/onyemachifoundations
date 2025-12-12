@@ -8,7 +8,7 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Onyemachi Foundation – Empowering Lives Through Education, Healthcare & Community Support</title>
+    <title>Onyemachi Foundation - Empowering Lives Through Education, Healthcare & Community Support</title>
 
     <meta name="description" content="Onyemachi Foundation is a non-profit organization empowering children, youths, and families across Africa through education, healthcare, and community development initiatives.">
     <meta name="keywords" content="Onyemachi Foundation, NGO in Nigeria, charity organization Africa, education charity, healthcare outreach Africa, empowerment programs, non-profit organization, community development Nigeria">
@@ -101,6 +101,7 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
         <div class="th-menu-area text-center">
             <button class="th-menu-toggle"><i class="fal fa-times"></i></button>
             <div class="mobile-logo">
+                
                 <a href="index.php"><img style="padding: 30px" src="assets/img/portfolio/logo1.png" alt="ONYEMACHI FOUNDATION LOGO"></a>
             </div>
             <div class="th-mobile-menu">
@@ -112,6 +113,7 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
                                 <li class="menu-item-has-children">
                                     <a href="initiatives.php">Initiatives</a>
                                     <ul class="sub-menu">
+                                         <li><a href="initiatives.php">All Initiatives</a></li>
                                         <li><a href="education.php">Education</a></li>
                                         <li><a href="healthcare.php">Healthcare</a></li>
                                         <li><a href="empowerment.php">Empowerment</a></li>
@@ -119,8 +121,11 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
                                 </li>
                                <li><a href="">Projects</a></li>
                                <li><a href="">Donations</a></li>
-                               
+                               <a style="padding: 15px; width: 100%" href="" class="th-btn style3">Contact Us</a>
+                                <a style="padding: 15px; width: 100%; margin-top: 5px" href="" class="th-btn style4"><i class="fas fa-heart me-2"></i> Donate Now</a>
+
                             </ul>
+
             </div>
         </div>
     </div>
@@ -131,7 +136,7 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
             <div class="container">
                 <div class="menu-area">
                     <div class="header-logo">
-                        <a href=""><img style="width: 180px; padding: 10px" src="assets/img/portfolio/logo1.png" alt="ONYEMACHI FOUNDATION LOGO"></a>
+                        <a href="index.php"><img style="width: 180px; padding: 10px" src="assets/img/portfolio/logo1.png" alt="ONYEMACHI FOUNDATION LOGO"></a>
                     </div>
                     <div class="menu-area-wrap">
                         <nav class="main-menu d-none d-lg-block">
@@ -143,6 +148,7 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
                                 <li class="menu-item-has-children">
                                     <a class="<?= ($current_page == 'initiatives.php') ? 'active' : '' ?>"href="initiatives.php">Initiatives</a>
                                     <ul class="sub-menu">
+                                        <li><a href="initiatives.php">All Initiatives</a></li>
                                         <li><a href="education.php">Education</a></li>
                                         <li><a href="healthcare.php">Healthcare</a></li>
                                         <li><a href="empowerment.php">Empowerment</a></li>
@@ -153,7 +159,6 @@ $current_dir  = basename(dirname($_SERVER['PHP_SELF']));
                                
                             </ul>
                         </nav>
-                        <p class="header-notice"><img class="me-1" src="assets/img/icon/heart-icon.svg" alt="img">Are you ready to help them? Let’s become a volunteers...</p>
                     </div>
                     <div class="header-button">
                        
