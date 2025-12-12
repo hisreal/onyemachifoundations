@@ -86,7 +86,7 @@
 
             <ul class="nav product-tab-style1" id="productTab" role="tablist">
                 <li class="nav-item">
-                    <a class="nav-link th-btn" id="description-tab" data-bs-toggle="tab" href="#description">Get Involved</a>
+                    <a class="nav-link th-btn" id="description-tab" data-bs-toggle="tab" href="donations.php">Get Involved</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link th-btn active" id="reviews-tab" data-bs-toggle="tab" href="about.php">Learn More</a>
