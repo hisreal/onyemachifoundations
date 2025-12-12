@@ -40,7 +40,7 @@
                                     <li><a href="initiatives.php">Our Initiatives</a></li>
                                     <li><a href="projects.php">Projects</a></li>
                                     <li><a href="contact.php">Contact Us</a></li>
-                                    <li><a href="">Donation</a></li>
+                                    <li><a href="donations.php">Donation</a></li>
                                     <!--<li><a href="">FAQ</a></li>-->
                                 </ul>
                             </div>
