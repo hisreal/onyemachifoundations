@@ -1,3 +1,71 @@
+
+<?php
+header('Content-Type: application/json');
+
+// Disable direct error output (avoid breaking JSON)
+ini_set('display_errors', 0);
+ini_set('log_errors', 1);
+
+// -----------------------------
+// Validate fields
+// -----------------------------
+if (!isset($_POST['name']) || empty($_POST['name'])) {
+    echo json_encode(['status' => 'error', 'message' => 'Name is required']);
+    exit;
+}
+
+if (!isset($_POST['email']) || empty($_POST['email'])) {
+    echo json_encode(['status' => 'error', 'message' => 'Email is required']);
+    exit;
+}
+
+if (!isset($_POST['message']) || empty($_POST['message'])) {
+    echo json_encode(['status' => 'error', 'message' => 'Message is required']);
+    exit;
+}
+
+// -----------------------------
+// Prepare variables
+// -----------------------------
+$name = htmlspecialchars(trim($_POST['name']));
+$email = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
+$message = htmlspecialchars(trim($_POST['message']));
+
+// -----------------------------
+// Send Email
+// -----------------------------
+$to = "your@email.com";  // ← CHANGE THIS
+$subject = "New Contact Message from $name";
+
+$body = "
+Name: $name
+Email: $email
+
+Message:
+$message
+";
+
+$headers = "From: $email\r\n";
+$headers .= "Reply-To: $email\r\n";
+
+// -----------------------------
+// Mail Action
+// -----------------------------
+if (mail($to, $subject, $body, $headers)) {
+    echo json_encode([
+        'status' => 'success',
+        'message' => 'Message sent successfully!'
+    ]);
+} else {
+    echo json_encode([
+        'status' => 'error',
+        'message' => 'Email could not be sent. Your server might not support mail().'
+    ]);
+}
+
+exit;
+?>
+
 <?php
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
