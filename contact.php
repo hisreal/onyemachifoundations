@@ -93,7 +93,7 @@ $keywords = "Contact Onyemachi Foundation, NGO contact Nigeria, charity enquirie
       <div class="col-lg-6">
             <div class="contact-form-v2 contact-page-form form-card p-4 mb-4">
                  
-                            <form action="" method="POST" class="contact-form">
+                            <form id="contact-form" method="POST" class="contact-form">
 
                                 <div class="row">
                                      <h5 class="fw-bold mb-4">Send us a Message</h5>
@@ -107,6 +107,7 @@ $keywords = "Contact Onyemachi Foundation, NGO contact Nigeria, charity enquirie
                                     <div class="form-group style-border col-12">
                                         <textarea name="message" id="message" cols="30" rows="3" class="form-control" placeholder="Type Your Message"></textarea>
                                     </div>
+                                    <div id="alertMessage"></div>
                                     <div class="form-btn col-12">
                                         <button class="th-btn">Send Message</button>
                                     </div>
