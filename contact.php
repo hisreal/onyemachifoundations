@@ -109,7 +109,7 @@ $keywords = "Contact Onyemachi Foundation, NGO contact Nigeria, charity enquirie
                                     </div>
                                     <div id="alertMessage"></div>
                                     <div class="form-btn col-12">
-                                        <button class="th-btn">Send Message</button>
+                                        <button  type="submit" class="th-btn">Send Message</button>
                                     </div>
                                 </div>
                                 <p class="form-messages mb-0 mt-3"></p>

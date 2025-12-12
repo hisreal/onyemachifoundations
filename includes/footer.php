@@ -125,7 +125,7 @@ $(document).ready(function() {
         alertBox.html(''); // clear previous alerts
 
         $.ajax({
-            url: 'contact.inc.php', // path to PHP file
+            url: 'includes/contact.inc.php', // path to PHP file
             type: 'POST',
             data: form.serialize(),
             dataType: 'json',
