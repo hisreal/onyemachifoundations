@@ -39,7 +39,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->Port = 465;                // SSL port
         $mail->SMTPSecure = 'ssl';        
         $mail->Username = "contact@onyemachifoundation.com";  // your email
-        $mail->Password = "@FounderUche25";       // your email password
+        $mail->Password = "@FounderUche25";   
 
         // Email headers
         $mail->setFrom("contact@onyemachifoundation.com", "Onyemachi Foundation");
