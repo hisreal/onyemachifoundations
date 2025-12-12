@@ -50,7 +50,7 @@
             </div>
             <div>
               <div class="fw-semibold">Email</div>
-              <div class="text-muted">contact@onyemachifoundation.com.com</div>
+              <div class="text-muted">contact@onyemachifoundation.com</div>
             </div>
           </div>
         </div>
