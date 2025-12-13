@@ -43,7 +43,7 @@ $keywords = "Onyemachi Foundation, NGO in Nigeria, charity organization Africa, 
         </p>
         
         <div class="btn-wrap mt-40">
-            <a href="about." class="th-btn">Read Our Full Story <i class="fas fa-arrow-up-right ms-2"></i></a>
+            <a href="about.php" class="th-btn">Read Our Full Story <i class="fas fa-arrow-up-right ms-2"></i></a>
         </div>
         </div>
 
